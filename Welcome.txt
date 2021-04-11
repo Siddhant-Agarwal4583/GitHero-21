@@ -1,4 +1,4 @@
-Welcome to GitHero where we test your git skills through challenging tasks and quizes.
-This repo is for your first task. Complete all the challenges within the given time.
-Tasks will be posted on Aparoksha's Discord server.
-Good Luck!
+Add this at the end of the file in a new line
+Organizers
+Kishan Tripathi: iit2019225@iiita.ac.in 
+Vishesh Mittal: iec2019057@iiita.ac.in 
